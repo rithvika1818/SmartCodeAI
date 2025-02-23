@@ -64,9 +64,6 @@ if __name__ == '__main__':
     unittest.main()
 ```
 
-## Contributing
-Feel free to submit issues and pull requests for improvements.
-
 ## Project Structure
 
 The repository is organized as follows:
@@ -81,3 +78,7 @@ The repository is organized as follows:
 - **requirements.txt**: List of dependencies and libraries required to run the project.
 - **demo.mp4**: Recorded demonstration of the project's features.
 
+## Contributing
+Feel free to submit issues and pull requests for improvements.
+
+This project is being done as a part of the second stage of Girl Hackathon 2025: Ideathon Round.
