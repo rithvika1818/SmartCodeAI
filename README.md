@@ -67,5 +67,17 @@ if __name__ == '__main__':
 ## Contributing
 Feel free to submit issues and pull requests for improvements.
 
-## License
-MIT License
+## Project Structure
+
+The repository is organized as follows:
+
+- **src/**: Contains the source code modules.
+  - `autocomplete.py`: Module for code autocompletion features.
+  - `bug_finder.py`: Module for detecting bugs in code.
+  - `test_generator.py`: Module for generating test cases.
+- **models/**: Directory for storing trained AI models.
+  - `trained_model.pkl`: Pre-trained model file.
+- **README.md**: Project documentation and overview.
+- **requirements.txt**: List of dependencies and libraries required to run the project.
+- **demo.mp4**: Recorded demonstration of the project's features.
+
